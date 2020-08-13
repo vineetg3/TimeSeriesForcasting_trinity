@@ -1,0 +1,33 @@
+time series(statistical approach)
+
+https://www.datasciencecentral.com/profiles/blogs/tutorial-forecasting-with-seasonal-arima
+https://www.kaggle.com/poiupoiu/how-to-use-sarimax
+https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/
+
+https://en.wikipedia.org/wiki/Autoregressive_integrated_moving_average
+
+Deep learning
+Tensorflow
+Rossman sales data
+https://ml-cheatsheet.readthedocs.io/en/latest/forwardpropagation.html
+https://www.youtube.com/watch?v=6f67zrH-_IE
+https://cloud.google.com/solutions/machine-learning-with-financial-time-series-data
+
+###(for time series)
+
+https://raw.githubusercontent.com/jbrownlee/Datasets/master/pollution.csv
+https://machinelearningmastery.com/multivariate-time-series-forecasting-lstms-keras/
+https://www.coursera.org/learn/ai/lecture/0cb0v/trainin-set-size
+https://github.com/amirrezaeian/Individual-household-electric-power-consumption-Data-Set-/blob/master/data_e_power.ipynb
+https://www.youtube.com/watch?v=sRy26qWejOI&list=PLjy4p-07OYzulelvJ5KVaT2pDlxivl_BN
+!!!!https://machinelearningmastery.com/how-to-get-started-with-deep-learning-for-time-series-forecasting-7-day-mini-course/
+https://towardsdatascience.com/using-lstms-to-forecast-time-series-4ab688386b1f
+https://github.com/parrondo/tutorial-LSTM
+https://github.com/Mickey0521/Deep-Learning-Examples-Jupyter-Notebook
+https://www.youtube.com/channel/UCsvqVGtbbyHaMoevxPAq9Fg
+###
+http://www.datasciencemadesimple.com/python-pandas-tutorial/
+
+
+###(general follow through)
+https://developers.google.com/machine-learning/crash-course/ 
